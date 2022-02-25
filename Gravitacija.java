@@ -6,6 +6,8 @@ public class Gravitacija {
     	double m=5.972*Math.pow(10,24);
     	double r=6.371*Math.pow(10,6);
    		double a=(c*m)/(Math.pow(r+v,2));
+	System.out.println(r);
+	System.out.println(a);
 	
 	}
 }
